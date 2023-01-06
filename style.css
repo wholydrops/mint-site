@@ -22,8 +22,8 @@ body {
 
 .container {
     margin: auto;
-    width: 40vw;
-    height: 70vh;
+    width: 80vw;
+    height: 120vh;
     /*outline: 1px solid red;*/
     border: 20px solid transparent;
     box-sizing: border-box;
